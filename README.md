@@ -1,4 +1,4 @@
-# Project Name
+# Hangman Game
 
 > One paragraph statement about the project.
 
